@@ -1,0 +1,5 @@
+{
+  "name": "CipherChat",
+  "description": "A secure, end-to-end encrypted messaging platform for private communication. Messages and images are encrypted client-side, ensuring only you and your recipient can read them.",
+  "requestFramePermissions": []
+}
